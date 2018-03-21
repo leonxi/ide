@@ -15,7 +15,7 @@
     "base-64": "^0.1.0",
     "bootstrap": "3",
     "bootstrap-vue": "^0.16.1",
-    "brace": "git+https://github.com/hereisnaman/brace.git#master",
+    "brace": "git+https://github.com/hereisnaman/brace.git#a417c2ed414528bd754f131d04a8aaaf66315891",
     "font-awesome": "^4.7.0",
     "vue": "^2.3.3",
     "vue-clipboard2": "0.0.6",
